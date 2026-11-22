@@ -1,0 +1,8 @@
+segment,name,gait,t_start,t_end,move_forward,move_left,move_turn,end_forward,end_left,end_yaw_rate
+0,trot_out,trot,0,2,0.7,0,0,0.45,0,0
+1,arc_left,trot,2,4,0.509295818,0.509295818,1.57079633,0.4,0,0
+2,arc_right,trot,4,6,0.509295818,-0.509295818,-1.57079633,0.5,0,0
+3,bound,bound,6,8,1.2,0,0,0.5,0,0
+4,pronk_turn,pronk,8,9.8,0.5,0.15,0.5,0.2,0,0
+5,jump,jump,9.8,11.1,0.5,0,0,0,0,0
+6,spin,trot,11.1,14.1,0,0,3.14159265,0,0,0

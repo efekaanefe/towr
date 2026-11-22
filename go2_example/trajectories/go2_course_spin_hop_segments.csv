@@ -1,0 +1,5 @@
+segment,name,gait,t_start,t_end,move_forward,move_left,move_turn,end_forward,end_left,end_yaw_rate
+0,pronk_spin,pronk,0,2.8,0,0,3.14159265,0,0,0
+1,side_hops,pronk,2.8,5,0,0.45,0,0,0,0
+2,diag_jump,jump,5,6.3,0.35,-0.25,-0.5,0,0,0
+3,pronk_turn,pronk,6.3,8.7,0.4,0,-1.57079633,0,0,0

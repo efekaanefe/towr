@@ -1,0 +1,7 @@
+segment,name,gait,t_start,t_end,move_forward,move_left,move_turn,end_forward,end_left,end_yaw_rate
+0,walk,walk,0,3,0.4,0,0,0.2,0,0
+1,trot,trot,3,5,0.7,0,0,0.45,0,0
+2,flytrot,flytrot,5,6.8,1,0,0,0.6,0,0
+3,bound,bound,6.8,8.8,1.4,0,0,0.75,0,0
+4,pace,pace,8.8,10.8,1.4,0,0,0.5,0,0
+5,pronk_stop,pronk,10.8,13,0.7,0,0,0,0,0
